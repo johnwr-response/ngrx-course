@@ -33,6 +33,7 @@ ng generate store auth/Auth --module auth.module.ts
 
 6 - NgRx Development Tools In Depth
 - Setting up NgRx Router Store and the Time-Travelling Debugger
+- NgRx Runtime Checks - How do they work?
 
 # Commands
 ```
