@@ -20,6 +20,10 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Reducers - Step-by-Step Implementation
 - Key Concepts Summary - NgRx Actions and Reducers In Action
 
+5 - Querying Store
+- How to Query the Store Data - An Example
+
+
 # Commands
 ```
 npm run server
