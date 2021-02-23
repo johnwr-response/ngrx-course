@@ -44,6 +44,7 @@ ng generate store auth/Auth --module auth.module.ts
 - How Does NgRx Data Work? Transparent Fetching Data In Action
 - NgRx Custom Data Service - Fetching Data From the Backend
 - Controlling Data Loading with the NgRx Data loaded flag
+- Querying Store Data with NgRx Data and the entities$ Observable
 
 # Commands
 ```
