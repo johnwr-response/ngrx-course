@@ -57,7 +57,7 @@ const entityMetadata: EntityMetadataMap = {
     }
   },
   Lesson: {
-    sortComparer: compareCourses,
+    sortComparer: compareLessons,
   }
 };
 

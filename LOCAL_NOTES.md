@@ -49,6 +49,7 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Data CRUD - Why Pessimistic Data Creation?
 - NgRx Data CRUD - Optimistic Delete Implementation
 - Setting Up a new Entity - The Lesson Entity
+- Implementing the Course Component Using NgRx Data
 
 # Commands
 ```
