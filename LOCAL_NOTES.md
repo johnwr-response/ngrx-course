@@ -17,7 +17,7 @@ ng generate store auth/Auth --module auth.module.ts
 - The Store Service API - Implementing the Login Screen 
 - Defining NgRx Actions using Action Creators
 - Grouping Actions Together with Action Types
-
+- NgRx Reducers - Step-by-Step Implementation
 
 # Commands
 ```
