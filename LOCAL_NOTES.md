@@ -43,6 +43,7 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Effects - Fetching Data From the Backend
 - Understanding the NgRx Entity Format
 - Implementing Reducers Using the NgRx Entity Adapter
+- NgRx Entity Selectors - Refactoring the Home Component
 
 
 
