@@ -18,6 +18,7 @@ ng generate store auth/Auth --module auth.module.ts
 - Defining NgRx Actions using Action Creators
 - Grouping Actions Together with Action Types
 - NgRx Reducers - Step-by-Step Implementation
+- Key Concepts Summary - NgRx Actions and Reducers In Action
 
 # Commands
 ```
