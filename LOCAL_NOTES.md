@@ -42,6 +42,7 @@ ng generate store auth/Auth --module auth.module.ts
 - Loading NgRx Entity Data using a Router Resolver
 - NgRx Effects - Fetching Data From the Backend
 - Understanding the NgRx Entity Format
+- Implementing Reducers Using the NgRx Entity Adapter
 
 
 
