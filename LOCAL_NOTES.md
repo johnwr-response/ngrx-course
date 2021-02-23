@@ -31,6 +31,8 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Effects - Step-by-Step Implementation
 - Implementing the Logout Effect (Practice Lesson)
 
+6 - NgRx Development Tools In Depth
+- Setting up NgRx Router Store and the Time-Travelling Debugger
 
 # Commands
 ```
