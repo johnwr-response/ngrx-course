@@ -39,6 +39,7 @@ ng generate store auth/Auth --module auth.module.ts
 7 - NgRx Entity In Depth
 - NgRx Entity - Section Kickoff
 - NgRx Feature Design - Defining Actions First
+- Loading NgRx Entity Data using a Router Resolver
 
 
 
