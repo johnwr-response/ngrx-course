@@ -9,7 +9,10 @@ ng add @ngrx/store-devtools
 2 Install the Redux DevTools
   https://extension.remotedev.io/
 
-
+3 Configuring an NgRx Feature Module using NgRx Schematics
+```
+ng generate store auth/Auth --module auth.module.ts
+```
 
 
 # Commands
