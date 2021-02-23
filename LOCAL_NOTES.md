@@ -24,6 +24,7 @@ ng generate store auth/Auth --module auth.module.ts
 - How to Query the Store Data - An Example
 - NgRx Selectors - An In-Depth Explanation
 - NgRx Feature Selectors - a Simple Explanation
+- Implementing User Logout (Practice Lesson )
 
 # Commands
 ```
