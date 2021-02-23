@@ -45,6 +45,7 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Custom Data Service - Fetching Data From the Backend
 - Controlling Data Loading with the NgRx Data loaded flag
 - Querying Store Data with NgRx Data and the entities$ Observable
+- NgRx Data CRUD - Why use Optimistic Updates?
 
 # Commands
 ```
