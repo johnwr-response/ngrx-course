@@ -28,6 +28,7 @@ ng generate store auth/Auth --module auth.module.ts
 - Implementing a Router Authentication Guard (Practice Lesson)
 - Introduction to NgRx Effects - What is a Side Effect?
 - Understanding NgRx Effects - A Simple Example
+- NgRx Effects - Step-by-Step Implementation
 
 # Commands
 ```
