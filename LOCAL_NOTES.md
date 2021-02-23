@@ -36,6 +36,13 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Runtime Checks - How do they work?
 - NgRx MetaReducers - Step-by-Step Implementation
 
+7 - NgRx Entity In Depth
+- NgRx Entity - Section Kickoff
+- NgRx Feature Design - Defining Actions First
+
+
+
+
 # Commands
 ```
 npm run server
