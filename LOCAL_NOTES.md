@@ -51,6 +51,7 @@ ng generate store auth/Auth --module auth.module.ts
 - Setting Up a new Entity - The Lesson Entity
 - Implementing the Course Component Using NgRx Data
 - Lessons Pagination using NgRx Data
+- Switching an NgRx Application to OnPush Change Detection
 
 # Commands
 ```
