@@ -48,6 +48,7 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Data Fetching Solution - How to Load Data Only If Needed
 - Optimistically Editing Entity Data - The Edit Course Dialog
 - Optimistic Data Editing - Reducer Implementation and Demo
+- Optimistic Data Editing - Saving Data in the background with an Effect
 
 
 # Commands
