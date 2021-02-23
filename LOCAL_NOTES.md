@@ -23,7 +23,7 @@ ng generate store auth/Auth --module auth.module.ts
 5 - Querying Store
 - How to Query the Store Data - An Example
 - NgRx Selectors - An In-Depth Explanation
-
+- NgRx Feature Selectors - a Simple Explanation
 
 # Commands
 ```
