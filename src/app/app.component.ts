@@ -1,10 +1,11 @@
 import {Component, OnInit} from '@angular/core';
 import {select, Store} from "@ngrx/store";
 import {Observable} from "rxjs";
-import {map} from 'rxjs/operators';
+import {distinctUntilChanged, map} from 'rxjs/operators';
 import {NavigationCancel, NavigationEnd, NavigationError, NavigationStart, Router} from '@angular/router';
 import {AppState} from "./reducers";
 import {state} from "@angular/animations";
+import {isLoggedIn, isLoggedOut} from "./auth/auth.selectors";
 
 @Component({
   selector: 'app-root',
@@ -44,11 +45,11 @@ export class AppComponent implements OnInit {
       });
 
       this.isLoggedIn$ = this.store.pipe(
-        map(state => !!state["auth"].user)
+        select(isLoggedIn)
+        // map(state => !!state["auth"].user),
+        // distinctUntilChanged()
       );
-      this.isLoggedOut$ = this.store.pipe(
-        map(state => !state["auth"].user)
-      );
+      this.isLoggedOut$ = this.store.pipe(select(isLoggedOut));
       // this.store.subscribe(state => console.log('Store Value: ', state));
 
     }
