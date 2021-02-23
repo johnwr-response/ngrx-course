@@ -13,6 +13,8 @@ ng add @ngrx/store-devtools
 ```
 ng generate store auth/Auth --module auth.module.ts
 ```
+4 The Store Service API - Implementing the Login Screen and Defining NgRx Actions using Action Creators
+
 
 
 # Commands
