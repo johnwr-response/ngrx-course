@@ -36,6 +36,13 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Runtime Checks - How do they work?
 - NgRx MetaReducers - Step-by-Step Implementation
 
+7 - (Is in the branch : '2-WalkThrough01')
+
+8 - NgRx Data In Depth
+- Why NgRx Data? New Section Introduction
+- Setting Up NgRx Data in a Lazy Loaded Module
+
+
 # Commands
 ```
 npm run server
