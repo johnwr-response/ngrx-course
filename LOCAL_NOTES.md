@@ -47,6 +47,7 @@ ng generate store auth/Auth --module auth.module.ts
 - Querying Store Data with NgRx Data and the entities$ Observable
 - NgRx Data CRUD - Why use Optimistic Updates?
 - NgRx Data CRUD - Why Pessimistic Data Creation?
+- NgRx Data CRUD - Optimistic Delete Implementation
 
 # Commands
 ```
