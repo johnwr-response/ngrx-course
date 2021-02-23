@@ -26,6 +26,7 @@ ng generate store auth/Auth --module auth.module.ts
 - NgRx Feature Selectors - a Simple Explanation
 - Implementing User Logout (Practice Lesson )
 - Implementing a Router Authentication Guard (Practice Lesson)
+- Introduction to NgRx Effects - What is a Side Effect?
 
 # Commands
 ```
