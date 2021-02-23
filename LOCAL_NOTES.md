@@ -41,7 +41,7 @@ ng generate store auth/Auth --module auth.module.ts
 8 - NgRx Data In Depth
 - Why NgRx Data? New Section Introduction
 - Setting Up NgRx Data in a Lazy Loaded Module
-
+- How Does NgRx Data Work? Transparent Fetching Data In Action
 
 # Commands
 ```
