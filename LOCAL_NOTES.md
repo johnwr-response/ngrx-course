@@ -44,6 +44,7 @@ ng generate store auth/Auth --module auth.module.ts
 - Understanding the NgRx Entity Format
 - Implementing Reducers Using the NgRx Entity Adapter
 - NgRx Entity Selectors - Refactoring the Home Component
+- Entity Adapter Configuration - Understanding sortComparer and selectId
 
 
 
